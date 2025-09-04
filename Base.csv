@@ -1,0 +1,26 @@
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Type,Aircraft,Aircraft ID,Nation,Commander,Take off Base ,Target ,Date of Mission,Take off Time,Reason for Crash ,Latitude,Longitude ,Location
+Base,NIL,NIL,Allied (USA),NIL,NIL,NIL,NIL,NIL,NIL,21.3667,-157.95,"Oahu, Hawaii"
+Base,NIL,NIL,Allied (USA),NIL,NIL,NIL,NIL,NIL,NIL,28.2075,-177.35,Midway Atoll
+Base,NIL,NIL,Allied (USA),NIL,NIL,NIL,NIL,NIL,NIL,19.308552,166.631012,Wake Island
+Base,NIL,NIL,Allied (USA/Allied),NIL,NIL,NIL,NIL,NIL,NIL,-15.533333,167.166672,"Espiritu Santo, Vanuatu"
+Base,NIL,NIL,Allied (USA),NIL,NIL,NIL,NIL,NIL,NIL,-9.428,160.0548,"Lunga Point, Guadalcanal, Solomon Is."
+Base,NIL,NIL,Allied (USA),NIL,NIL,NIL,NIL,NIL,NIL,13.42827,144.65252,"Apra Harbor, Guam"
+Base,NIL,NIL,Allied (USA),NIL,NIL,NIL,NIL,NIL,NIL,15.2123,145.755,"Saipan, Northern Mariana Islands"
+Base,NIL,NIL,Allied (USA),NIL,NIL,NIL,NIL,NIL,NIL,14.938699,145.607816,"Tinian, Northern Mariana Islands"
+Base,NIL,NIL,Allied (USA),NIL,NIL,NIL,NIL,NIL,NIL,-2.0188,147.3587,"Seeadler Harbor, Manus Island, PNG"
+Base,NIL,NIL,Allied (Australia/USA),NIL,NIL,NIL,NIL,NIL,NIL,-9.44314,147.17972,"Port Moresby area, Papua New Guinea"
+Base,NIL,NIL,Allied (Australia),NIL,NIL,NIL,NIL,NIL,NIL,-12.461534,130.842442,"Darwin, Northern Territory, Australia"
+Base,NIL,NIL,Axis (Japan),NIL,NIL,NIL,NIL,NIL,NIL,7.4167,151.7833,"Chuuk (Truk) Lagoon, Micronesia"
+Base,NIL,NIL,Axis (Japan),NIL,NIL,NIL,NIL,NIL,NIL,-4.1967,152.1722,"Rabaul, New Britain (Papua New Guinea)"
+Base,NIL,NIL,Axis (Japan),NIL,NIL,NIL,NIL,NIL,NIL,7.33978,134.473,Koror/Palau (Japanese-held)
+Base,NIL,NIL,Axis (Japan),NIL,NIL,NIL,NIL,NIL,NIL,7.515,134.583,Palau islands (Japanese naval base region)
+Base,NIL,NIL,Axis (Japan),NIL,NIL,NIL,NIL,NIL,NIL,35.2839,139.6677,Yokosuka area (major naval base)
+Base,NIL,NIL,"Axis/Allied (Japanese-held then 
+Allied captured)",NIL,NIL,NIL,NIL,NIL,NIL,8.72,167.73,"Kwajalein, Marshall Islands"
+Base,NIL,NIL,Allied (USA),NIL,NIL,NIL,NIL,NIL,NIL,-9.64,160.15,Island/operations site (Solomon Is.)
+Base,NIL,NIL,Allied (USA/Australia),NIL,NIL,NIL,NIL,NIL,NIL,-6.33,155.02,"Bougainville, PNG (Torokina)"
+Base,NIL,NIL,Axis (Japan),NIL,NIL,NIL,NIL,NIL,NIL,-2.574,150.797,"Kavieng, New Ireland (PNG)"
